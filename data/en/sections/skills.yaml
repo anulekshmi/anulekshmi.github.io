@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Tools & Technologies
+  #logo: "/images/sections/skills/kubernetes.png"
+  summary: "C/C++ | Python | Java | JavaScript | HTML/CSS | PHP | SQL | R | MATLAB | Node.js | React.js | Express.js | MongoDB | Django | TensorFlow | Keras | Bash | Git"
+
+- name: Industry Knowledge
+  #logo: "/images/sections/skills/go.png"
+  summary: "Web Development | Machine Learning | Object-Oriented Software Development | Database Management | Data Analytics | Data Structures | Algorithms | Research"
+
+- name: Professional Skills
+  #logo: "/images/sections/skills/cloud.png"
+  summary: "Problem Solving | Logical Thinking | Leadership | Team Work | Public Speaking Interpersonal Skills | Attention to Detail | Business Awareness"

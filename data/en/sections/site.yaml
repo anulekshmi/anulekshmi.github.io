@@ -1,0 +1,50 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+#designation: Software Engineer
+# your company information
+#company:
+  #name: Example Co.
+  #url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+#resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am majoring in Computer Science & Engineering at VIT University. I consistently try to upskill myself for contributing towards the development of cutting-edge technologies that can substantially solve real-world problems. Glad to connect!'
+
+#Coding has always been my passion; machine learning specifically being the area of best interest since it has exposed me to a broader range of problems that I can solve. As a part of consistently working on improving my technical and soft skills whilst accumulating a strong foundational knowledge in several domains by myself, I often engage with my friends in designing new ideas and researching or developing them through projects. I also fervently try to acquire expertise in fields like Web #and Android Development, Data Analytics, etc. as it can equip me in a better way for contributing towards the development of cutting-edge technologies that can substantially solve real-world problems.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Gmail
+  icon: "fas fa-envelope"
+  url: "j.lekshmi.anu@gmail.com"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/anulekshmi"
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/anu-lekshmi/"
+- name: Stack Overflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/13493434/anu-lekshmi"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow

@@ -1,0 +1,40 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: VITeach
+    url: "https://www.example.com"
+    location: VIT Chennai Campus
+    # company overview
+    overview: VITeach is a non-profit organization that aims at providing quality education to underprivileged children in government schools.
+  positions:
+  - designation: Web Developer
+    start: Sep 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Lead the web development and content management teams.
+    - Elicit requirements, analyze, design, code, test, deploy and maintain the organization's website, following agile methodologies.
+
+- company:
+    name: PALS
+    url: "http://palsvit.com/"
+    location: VIT Chennai Campus
+    overview: PALS is an IIT Alumni initiative dedicated to bridging the gap between industry requirements and theoretical aspects of academics.
+  positions:
+  - designation: Content Writer
+    start: July 2019
+    responsibilities:
+    - Research related topics (combining online sources, interviews and studies).
+    - Write, proof-read and edit contents for preparing well-structured drafts.
+    - Coordinate all other departments as part of events.

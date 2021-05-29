@@ -1,0 +1,15 @@
+# some information about you
+name: "Anu Lekshmi J"
+nickname: "Anu"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+#image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "j.lekshmi.anu@gmail.com"
+
+# some summary about what you do
+summary:
+  - I am an aspiring developer
+  - I major in Computer Science & Engineering
+  - I love to engage on challenging projects / research works
